@@ -2,7 +2,7 @@
 *An end-to-end machine learning project to identify high-probability borrowers among deposit customers, optimize campaign targeting, and boost loan revenue.*
 
 <p align="center">
-  <img src="images/Screenshot 2025-08-15 at 6.28.35 PM.png" alt="Income Distribution" width="400"/>
+  <img src="images/personal loan screenshot.png" alt="Income Distribution" width="400"/>
 </p>
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
@@ -61,6 +61,10 @@ This project aims to build a machine learning model that predicts which existing
 - **Education:** Graduates and Professionals accept more often — tied to income and lifestyle aspirations.
 - **CD Accounts:** 30% of accepters vs <10% of non-accepters — cross-sell opportunity.
 
+<p align="center">
+  <img src="images/bivariate analysis.png" alt="Income Distribution" width="400"/>
+</p>
+
 ### Multivariate Patterns
 - **High Income + High CCAvg:** Strongest loan acceptance likelihood.
 - **High Income + High Mortgage:** Signals refinancing potential.
@@ -88,9 +92,22 @@ This project aims to build a machine learning model that predicts which existing
 
 **Chosen Model:** **Pre-pruned Decision Tree** — slightly higher precision with equal/better recall compared to baseline, enabling more efficient targeting.
 
+<p align="center">
+  <img src="images/confusion martrix - pre-pruned model.png" alt="Income Distribution" width="400"/>
+</p>
+
+<p align="center">
+  <img src="images/decision tree image.png" alt="Income Distribution" width="400"/>
+</p>
+
 ---
 
 ## 🔍 Feature Importance (Top 5)
+
+<p align="center">
+  <img src="images/feature importances.png" alt="Income Distribution" width="400"/>
+</p>
+
 1. Income
 2. Education
 3. Family Size
