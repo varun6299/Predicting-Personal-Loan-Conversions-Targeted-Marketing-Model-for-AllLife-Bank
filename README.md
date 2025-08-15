@@ -1,6 +1,10 @@
 # 💰 Predicting Personal Loan Conversions — Data-Driven Target Marketing for AllLife Bank
 *An end-to-end machine learning project to identify high-probability borrowers among deposit customers, optimize campaign targeting, and boost loan revenue.*
 
+<p align="center">
+  <img src="images/income_distribution.png" alt="Income Distribution" width="400"/>
+</p>
+
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2+-orange.svg)](https://scikit-learn.org/)
 [![pandas](https://img.shields.io/badge/pandas-2.0+-green.svg)](https://pandas.pydata.org/)
