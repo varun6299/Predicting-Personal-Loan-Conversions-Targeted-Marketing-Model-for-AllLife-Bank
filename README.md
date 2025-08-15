@@ -151,6 +151,3 @@ This project aims to build a machine learning model that predicts which existing
 - **Increased Loan Uptake:** High recall ensures minimal missed opportunities.
 - **Strategic Cross-Selling:** Strengthens customer relationship through multi-product holdings.
 
----
-
-## 📂 Repository Structure
