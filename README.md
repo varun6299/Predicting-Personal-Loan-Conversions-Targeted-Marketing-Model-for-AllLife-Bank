@@ -2,7 +2,7 @@
 *An end-to-end machine learning project to identify high-probability borrowers among deposit customers, optimize campaign targeting, and boost loan revenue.*
 
 <p align="center">
-  <img src="images/income_distribution.png" alt="Income Distribution" width="400"/>
+  <img src="images/Screenshot 2025-08-15 at 6.28.35 PM.png" alt="Income Distribution" width="400"/>
 </p>
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
